@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Kislay Singh 🙋‍♂️</h1>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
-<h2>A student and a MERN Stack Developer!!</h2>
+<h2>A student and a Full Stack Developer!!</h2>
 
 <h2>About Me:</h2>
 <h4> 👨‍🎓I’m currently working on enhacing my development skills</h4>
