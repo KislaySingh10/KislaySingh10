@@ -5,7 +5,7 @@
 
 <h2>About Me:</h2>
 <h4> 👨‍🎓I’m currently working on enhacing my development skills</h4>
-<h4>🥅 2021 Goals: Contribute more to Open Source projects</h4>
+<h4>🥅 2022 Goals: Contribute more to Open Source projects</h4>
 <h4> 🤍 Result-oriented individual</h4>
 
 <h2>My Learnings</h2>
@@ -57,7 +57,7 @@ Connect with me:
 
 
 
-[![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=KislaySingh10)](https://github.com/KislaySingh10)
+[![Kislay's github stats](https://github-readme-stats.vercel.app/api?username=KislaySingh10)](https://github.com/KislaySingh10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KislaySingh10&layout=compact)](https://github.com/KislaySingh10)
 
