@@ -1,11 +1,11 @@
 <h1>Hi there, I'm Kislay Singh 🙋‍♂️</h1>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
-<h2>A student and a Full Stack Developer!!</h2>
+<h2>"Innovative SDE | Lifelong Learner | Code Explorer"</h2>
 
 <h2>About Me:</h2>
 <h4> 👨‍🎓I’m currently working on enhacing my development skills</h4>
-<h4>🥅 2022 Goals: Contribute more to Open Source projects</h4>
+<h4>🥅 2024 Goals: Dive into DevOps</h4>
 <h4> 🤍 Result-oriented individual</h4>
 
 <h2>My Learnings</h2>
